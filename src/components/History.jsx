@@ -1,5 +1,4 @@
 const History = ({ history, moveTo, currentMove }) => {
-  console.log('history', history);
   return (
     <div className="history-wrapper">
       <ul className="history">
